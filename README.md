@@ -35,7 +35,7 @@ Para executar o teste:
 
 **package** - onde ficam as dependências e suas  versões  assim como os scripts para a chamada de determinados  testes.
 
-# teste
+# test
 
 Os testes estão divididos em duas pastas:
 
