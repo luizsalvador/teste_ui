@@ -1,0 +1,21 @@
+{
+  "name": "testUI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "codeceptjs": "^3.0.7",
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "testeUi": "codeceptjs run --config ./codecept-conf/testeUi.conf.js \"@EXECUTARTODOS\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
