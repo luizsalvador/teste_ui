@@ -14,11 +14,11 @@ JDK do java 8 - https://www.oracle.com/br/java/technologies/javase/javase-jdk8-d
 
 Executar comando: 
 
-npm install
+    npm install
  
 Para executar o teste: 
  
-npx codeceptjs run testeUi
+   npx codeceptjs run testeUi
  
  
 # Estrutura do projeto
