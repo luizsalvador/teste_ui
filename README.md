@@ -31,7 +31,7 @@ Para executar o teste:
 
 **test** - onde ficam localizados os teste de UI
 
-**steps_file.js** - onde ficam as funções comuns para toda a aplicação, sendo utilizado até por mais de um aplicação, desde que esteja dentro de repositório.
+**steps_file.js** - onde ficam as funções comuns para toda a aplicação, sendo utilizado até por mais de um aplicação, desde que esteja dentro do repositório.
 
 **package** - onde ficam as dependências e suas  versões  assim como os scripts para a chamada de determinados  testes.
 
