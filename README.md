@@ -19,8 +19,17 @@ Executar comando:
 Para executar o teste: 
 
     npx codeceptjs run testeUi
- 
- 
+    
+    
+## Como abrir o projeto:
+
+Após clonar o projeto do git;
+
+Abrir o Visual Studio em: File > Open floder 
+
+![image](https://user-images.githubusercontent.com/55900972/118419025-3b84bc80-b691-11eb-817e-abf30c71aede.png)
+
+
 # Estrutura do projeto
 
 ![image](https://user-images.githubusercontent.com/55900972/118415831-0b362180-b683-11eb-8d51-a4ebc4535780.png)
